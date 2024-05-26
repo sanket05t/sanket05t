@@ -1,8 +1,8 @@
-[![masterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sanket05t.io)
+[![masterHead](https://github.com/sanket05t/sanket05t/assets/170795528/94064b77-a759-4bfe-99ea-d439fe17c295.gif)](https://sanket05t.io)
 <h3 align="left">Languages and Tools:</h3>
 <h1 align="center">Hi 👋, I'm Sanket Thombare</h1>
 <h3 align="center">A passionate UI/UX cum frontend developer from India</h3>
-<img align="right" alt="Design" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Design" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket05t&label=Profile%20views&color=0e75b6&style=flat" alt="sanket05t" /> </p>
